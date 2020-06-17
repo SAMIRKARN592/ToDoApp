@@ -4,6 +4,8 @@
 ## Introduction
 
 this app is basically a todo app which helps user to keep the list of tasks they have to do according to the priority
+Username:admin
+Password:Admin@123
 
 ## Code Samples
 
