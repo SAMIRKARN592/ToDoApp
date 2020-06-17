@@ -120,8 +120,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## Installation
-
-1. install android studio
-2. go to FIle >open and upload the file
-3. Set proper Environment for the file
-4. Run the code
+1. Dowload the zip file
+2. Extract the files
+3. install android studio
+4. go to FIle >open and upload the folder
+5. Set proper Environment for the app
+6. Run the code
